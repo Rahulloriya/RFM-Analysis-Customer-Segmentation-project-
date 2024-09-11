@@ -1,45 +1,21 @@
 # Bicycle Business Profitability 
-# Exploratory RFM and Customer Segmentation Analysis
 
 ## Goal of the Project
-The purpose of this project is to increase profitability by identifying and targeting high-value customers through RFM (Recency, Frequency, Monetary) analysis and customer segmentation. Despite stable sales, the company aims to boost profitability by understanding what high-value customers are buying and analyzing their customer lifetime values based on various available attributes.
+The purpose of this project is to conduct a Customer Segmentation Analysis for an Australian automobile bike company. Customer segmentation is performed by developing an RFM (Recency, Frequency, Monetary) Model. RFM analysis is a behavior-based approach grouping customers into segments based on their previous purchase transactions. In this analysis, the customer base was divided into 4 distinct segments: Platinum, Gold, Silver, and Bronze. The analysis aims to determine which customer segments should be targeted to enhance sales revenue and profitability for the company. A comprehensive Dashboard for Customer Segmentation is developed using Tableau, while the data quality assessment, RFM analysis, and exploratory data analysis are performed using Python. This project seeks to provide actionable insights into customer behavior, brand preferences, and product performance to drive strategic decision-making and marketing efforts.
 
 ## Tableau Dashboard
-The Pricing Insight Dashboard for Customer Segmentation and Sales Analysis.
+The Dashboard for Customer Segmentation and Sales Analysis can be found [here](https://public.tableau.com/views/RFMDashboard_17260549311650/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![6 Dashboard](https://github.com/user-attachments/assets/47c0dc65-704d-413a-89dc-510bca6de461)
 
 
 In case of failure of loading Jupyter Notebooks on GitHub, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:
 
-- RFM table & Data prep: [link to nbviewer RFM table & Data prep]
-- Customer Segment Analysis: [link to nbviewer Customer Segment Analysis]
+- [RFM table & Customer segmentation](https://nbviewer.org/github/Rahulloriya/RFM-analysis-Customer-segmentation-project-/blob/main/4.Customer_Segmentation_using_RFM_and_KMeans.ipynb)
+- [Data Analysis](https://nbviewer.org/github/Rahulloriya/RFM-analysis-Customer-segmentation-project-/blob/main/5.Data%20Analysis.ipynb)
 
-## Analysis Approach
-
-### 1. Data Preparation and RFM Analysis
-- Created an RFM table from transaction data
-- Calculated Recency, Frequency, and Monetary values for each customer
-- Performed K-means clustering to segment customers
-
-### 2. Customer Segmentation
-- Segmented customers into four groups: Platinum, Gold, Silver, and Bronze
-- Analyzed characteristics of each segment including:
-  - Online vs offline order preferences
-  - Product size preferences
-  - State distribution
-  - Gender distribution
-  - Job industry categories
-  - Wealth segments
-
-### 3. Sales and Product Analysis
-- Examined sales trends over time
-- Analyzed sales by age group and gender
-- Investigated brand preferences and profitability for each customer segment
-- Studied product line preferences and profitability
-
-### 4. Age Group and Product Preferences
-- Analyzed product line preferences by age group
-- Identified top 10 products by sales and their typical customer profiles
+- [CustomerDemographic Data Cleaning](https://nbviewer.org/github/Rahulloriya/RFM-analysis-Customer-segmentation-project-/blob/main/2.Data%20Cleaning/2.Data%20Cleaning%20CustomerDemographic.ipynb)
+- [Transactions Data Cleaning ](https://nbviewer.org/github/Rahulloriya/RFM-analysis-Customer-segmentation-project-/blob/main/2.Data%20Cleaning/4.Data%20Cleaning%20Transactions.ipynb)
+- [Customer Address Data Cleaning](https://nbviewer.org/github/Rahulloriya/RFM-analysis-Customer-segmentation-project-/blob/main/2.Data%20Cleaning/5.Data%20Cleaning-Customer%20Address.ipynb)
 
 ## Key Insights
 
@@ -66,6 +42,24 @@ In case of failure of loading Jupyter Notebooks on GitHub, the following noteboo
    - Road Bikes are a balanced choice for both younger and older riders interested in speed and performance.
    - Touring Bikes are particularly popular among older age groups.
    - Mountain Bikes are popular among younger riders seeking excitement.
+  
+##Problem Statement
+the Bicycle business in australia has to increase the existing profitability
+
+## Solution
+The company can increase profitability by targeting its high-value (Platinum and Gold) customer segments and optimizing its product offerings.
+
+### Reasons
+1. High-value customers (Platinum and Gold) generate the most profit for the company.
+2. The analysis revealed key insights about the preferences and behaviors of these high-value customers, which can be leveraged to drive profitability.
+3. Certain product lines, brands, and features have higher profit margins, indicating opportunities for optimization.
+
+### Facts
+1. Gold customers account for the highest total profit, followed closely by Platinum customers.
+2. High-value customers prefer Solex, WeareA2B, and Giant Bicycle brands, which have relatively higher profit margins.
+3. Standard, Road, and Touring product lines are the most profitable, with Touring bicycles having the highest profit margins.
+4. Customers in their 40s, working in Manufacturing or Financial Services, and belonging to the Mass Customer wealth segment are the primary buyers of the top-selling products.
+5. Balanced approaches to online and offline sales channels, as well as targeted marketing campaigns based on customer demographics and preferences, can help increase profitability.fitability.
 
 ## Datasets Used
 - RFM_Final_Dataset.xlsx: This dataset included detailed information about customer transactions, demographics, and RFM scores.
@@ -76,8 +70,3 @@ In case of failure of loading Jupyter Notebooks on GitHub, the following noteboo
 - **Excel**: For minor analysis and broad view to make decisions. 
 - **PowerBI**: For creating the Pricing Insight Dashboard to visualize analysis.
 
-## Future Work
-- Develop targeted marketing strategies for each customer segment
-- Analyze seasonal trends in purchasing behavior
-- Investigate the impact of pricing strategies on customer segment behavior
-- Explore potential for cross-selling and upselling within and across segments
