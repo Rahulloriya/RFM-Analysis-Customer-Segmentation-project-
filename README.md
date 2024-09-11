@@ -62,9 +62,6 @@ The company can increase profitability by targeting its high-value (Platinum and
 - Customers in their 40s, working in Manufacturing or Financial Services, and belonging to the Mass Customer wealth segment are the primary buyers of the top-selling products.
 - Balanced approaches to online and offline sales channels, as well as targeted marketing campaigns based on customer demographics and preferences, can help increase profitability.fitability.
 
-## Datasets Used
-- RFM_Final_Dataset.xlsx: This dataset included detailed information about customer transactions, demographics, and RFM scores.
-
 ## Tools and Technologies Used
 - **Python**: For Data Quality Assessment, Data Cleaning, and Exploratory Data Analysis using libraries like pandas, matplotlib, and seaborn.
 - **Jupyter Notebooks**: For documenting the analysis process and creating visualizations.
