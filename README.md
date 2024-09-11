@@ -1,4 +1,4 @@
-# Bicycle Business Profitability 
+# Customer Segmentation Project 
 
 ## Goal of the Project
 The purpose of this project is to conduct a comprehensive Customer Segmentation Analysis for an Australian automobile bike company. Customer segmentation is performed by developing an RFM (Recency, Frequency, Monetary) Model and applying K-means clustering algorithm. RFM analysis is a behavior-based approach grouping customers into segments based on their previous purchase transactions, while K-means clustering helps to identify distinct customer groups based on multiple attributes.
