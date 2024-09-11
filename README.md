@@ -45,10 +45,8 @@ In case of failure of loading Jupyter Notebooks on GitHub, the following noteboo
    - Road Bikes are a balanced choice for both younger and older riders interested in speed and performance.
    - Touring Bikes are particularly popular among older age groups.
    - Mountain Bikes are popular among younger riders seeking excitement.
-  
-##Problem Statement
-the Bicycle business in australia has to increase the existing profitability
 
+  
 ## Solution
 The company can increase profitability by targeting its high-value (Platinum and Gold) customer segments and optimizing its product offerings.
 
