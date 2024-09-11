@@ -1,8 +1,8 @@
 # Bicycle Business Profitability 
 
 ## Goal of the Project
-The purpose of this project is to conduct a comprehensive Customer Segmentation Analysis for an Australian automobile bike company. Customer segmentation is performed by developing an RFM (Recency, Frequency, Monetary) Model and applying K-means clustering algorithm. RFM analysis is a behavior-based approach grouping customers into segments based on their previous purchase transactions, while K-means clustering helps to identify distinct customer groups based on multiple attributes.
-In this analysis, the customer base was divided into 4 distinct segments using K-means clustering: Platinum, Gold, Silver, and Bronze. The project aims to determine which customer segments should be targeted to enhance sales revenue and profitability for the company. A detailed Dashboard is developed using Tableau to visualize key insights and trends.
+The purpose of this project is to conduct a comprehensive Customer Segmentation Analysis for an Australian automobile bike company. Customer segmentation is performed by developing an RFM (Recency, Frequency, Monetary) Model and applying K-means clustering algorithm. RFM analysis is a behavior-based approach grouping customers into segments based on their previous purchase transactions, while K-means clustering helps to identify distinct customer groups based on multiple attributes.  
+In this analysis, the customer base was divided into 4 distinct segments using K-means clustering: Platinum, Gold, Silver, and Bronze. The project aims to determine which customer segments should be targeted to enhance sales revenue and profitability for the company. A detailed Dashboard is developed using Tableau to visualize key insights and trends.  
 The data quality assessment, RFM analysis, K-means clustering, and exploratory data analysis are performed using Python. This project seeks to provide actionable insights into customer behavior, brand preferences, and product performance to drive strategic decision-making and targeted marketing efforts.
 
 ## Tableau Dashboard
@@ -53,16 +53,16 @@ the Bicycle business in australia has to increase the existing profitability
 The company can increase profitability by targeting its high-value (Platinum and Gold) customer segments and optimizing its product offerings.
 
 ### Reasons
-1. High-value customers (Platinum and Gold) generate the most profit for the company.
-2. The analysis revealed key insights about the preferences and behaviors of these high-value customers, which can be leveraged to drive profitability.
-3. Certain product lines, brands, and features have higher profit margins, indicating opportunities for optimization.
+- High-value customers (Platinum and Gold) generate the most profit for the company.
+- The analysis revealed key insights about the preferences and behaviors of these high-value customers, which can be leveraged to drive profitability.
+- Certain product lines, brands, and features have higher profit margins, indicating opportunities for optimization.
 
 ### Facts
-1. Gold customers account for the highest total profit, followed closely by Platinum customers.
-2. High-value customers prefer Solex, WeareA2B, and Giant Bicycle brands, which have relatively higher profit margins.
-3. Standard, Road, and Touring product lines are the most profitable, with Touring bicycles having the highest profit margins.
-4. Customers in their 40s, working in Manufacturing or Financial Services, and belonging to the Mass Customer wealth segment are the primary buyers of the top-selling products.
-5. Balanced approaches to online and offline sales channels, as well as targeted marketing campaigns based on customer demographics and preferences, can help increase profitability.fitability.
+- Gold customers account for the highest total profit, followed closely by Platinum customers.-
+- High-value customers prefer Solex, WeareA2B, and Giant Bicycle brands, which have relatively higher profit margins.
+- Standard, Road, and Touring product lines are the most profitable, with Touring bicycles having the highest profit margins.
+- Customers in their 40s, working in Manufacturing or Financial Services, and belonging to the Mass Customer wealth segment are the primary buyers of the top-selling products.
+- Balanced approaches to online and offline sales channels, as well as targeted marketing campaigns based on customer demographics and preferences, can help increase profitability.fitability.
 
 ## Datasets Used
 - RFM_Final_Dataset.xlsx: This dataset included detailed information about customer transactions, demographics, and RFM scores.
@@ -71,5 +71,5 @@ The company can increase profitability by targeting its high-value (Platinum and
 - **Python**: For Data Quality Assessment, Data Cleaning, and Exploratory Data Analysis using libraries like pandas, matplotlib, and seaborn.
 - **Jupyter Notebooks**: For documenting the analysis process and creating visualizations.
 - **Excel**: For minor analysis and broad view to make decisions. 
-- **PowerBI**: For creating the Pricing Insight Dashboard to visualize analysis.
+- **Tableau**: For creating the Pricing Insight Dashboard to visualize analysis.
 
