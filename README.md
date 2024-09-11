@@ -1,10 +1,13 @@
 # Bicycle Business Profitability 
 
 ## Goal of the Project
-The purpose of this project is to conduct a Customer Segmentation Analysis for an Australian automobile bike company. Customer segmentation is performed by developing an RFM (Recency, Frequency, Monetary) Model. RFM analysis is a behavior-based approach grouping customers into segments based on their previous purchase transactions. In this analysis, the customer base was divided into 4 distinct segments: Platinum, Gold, Silver, and Bronze. The analysis aims to determine which customer segments should be targeted to enhance sales revenue and profitability for the company. A comprehensive Dashboard for Customer Segmentation is developed using Tableau, while the data quality assessment, RFM analysis, and exploratory data analysis are performed using Python. This project seeks to provide actionable insights into customer behavior, brand preferences, and product performance to drive strategic decision-making and marketing efforts.
+The purpose of this project is to conduct a comprehensive Customer Segmentation Analysis for an Australian automobile bike company. Customer segmentation is performed by developing an RFM (Recency, Frequency, Monetary) Model and applying K-means clustering algorithm. RFM analysis is a behavior-based approach grouping customers into segments based on their previous purchase transactions, while K-means clustering helps to identify distinct customer groups based on multiple attributes.
+In this analysis, the customer base was divided into 4 distinct segments using K-means clustering: Platinum, Gold, Silver, and Bronze. The project aims to determine which customer segments should be targeted to enhance sales revenue and profitability for the company. A detailed Dashboard is developed using Tableau to visualize key insights and trends.
+The data quality assessment, RFM analysis, K-means clustering, and exploratory data analysis are performed using Python. This project seeks to provide actionable insights into customer behavior, brand preferences, and product performance to drive strategic decision-making and targeted marketing efforts.
 
 ## Tableau Dashboard
 The Dashboard for Customer Segmentation and Sales Analysis can be found [here](https://public.tableau.com/views/RFMDashboard_17260549311650/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ![6 Dashboard](https://github.com/user-attachments/assets/47c0dc65-704d-413a-89dc-510bca6de461)
 
 
