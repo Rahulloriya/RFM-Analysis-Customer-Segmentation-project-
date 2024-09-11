@@ -1,8 +1,10 @@
 # Bicycle Business Profitability 
 
 ## Goal of the Project
-The purpose of this project is to conduct a comprehensive Customer Segmentation Analysis for an Australian automobile bike company. Customer segmentation is performed by developing an RFM (Recency, Frequency, Monetary) Model and applying K-means clustering algorithm. RFM analysis is a behavior-based approach grouping customers into segments based on their previous purchase transactions, while K-means clustering helps to identify distinct customer groups based on multiple attributes.  
-In this analysis, the customer base was divided into 4 distinct segments using K-means clustering: Platinum, Gold, Silver, and Bronze. The project aims to determine which customer segments should be targeted to enhance sales revenue and profitability for the company. A detailed Dashboard is developed using Tableau to visualize key insights and trends.  
+The purpose of this project is to conduct a comprehensive Customer Segmentation Analysis for an Australian automobile bike company. Customer segmentation is performed by developing an RFM (Recency, Frequency, Monetary) Model and applying K-means clustering algorithm. RFM analysis is a behavior-based approach grouping customers into segments based on their previous purchase transactions, while K-means clustering helps to identify distinct customer groups based on multiple attributes.
+
+In this analysis, the customer base was divided into 4 distinct segments using K-means clustering: Platinum, Gold, Silver, and Bronze. The project aims to determine which customer segments should be targeted to enhance sales revenue and profitability for the company. A detailed Dashboard is developed using Tableau to visualize key insights and trends.
+
 The data quality assessment, RFM analysis, K-means clustering, and exploratory data analysis are performed using Python. This project seeks to provide actionable insights into customer behavior, brand preferences, and product performance to drive strategic decision-making and targeted marketing efforts.
 
 ## Tableau Dashboard
