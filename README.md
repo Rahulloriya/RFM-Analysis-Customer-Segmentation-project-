@@ -16,7 +16,7 @@ The Dashboard for Customer Segmentation and Sales Analysis can be found [here](h
 In case of failure of loading Jupyter Notebooks on GitHub, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:
 
 - [RFM table & Customer segmentation](https://nbviewer.org/github/Rahulloriya/RFM-analysis-Customer-segmentation-project-/blob/main/4.Customer_Segmentation_using_RFM_and_KMeans.ipynb)
-- [Data Analysis](https://nbviewer.org/github/Rahulloriya/RFM-analysis-Customer-segmentation-project-/blob/main/5.Data%20Analysis.ipynb)
+- [Data Analysis](https://nbviewer.org/github/Rahulloriya/RFM-analysis-Customer-segmentation-project-/blob/main/5.Data%20analysis.ipynb)
 
 - [CustomerDemographic Data Cleaning](https://nbviewer.org/github/Rahulloriya/RFM-analysis-Customer-segmentation-project-/blob/main/2.Data%20Cleaning/2.Data%20Cleaning%20CustomerDemographic.ipynb)
 - [Transactions Data Cleaning ](https://nbviewer.org/github/Rahulloriya/RFM-analysis-Customer-segmentation-project-/blob/main/2.Data%20Cleaning/4.Data%20Cleaning%20Transactions.ipynb)
